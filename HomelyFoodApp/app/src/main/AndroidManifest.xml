@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.android.HomelyFood">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NOTIFICATION_POLICY" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.example.android.HomelyFood.ShowComment"></activity>
+
+
+        <meta-data android:name="com.facebook.accountkit.ApplicationName"
+            android:value="@string/app_name" />
+        <meta-data android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id" />
+        <meta-data android:name="com.facebook.accountkit.ClientToken"
+            android:value="@string/facebook_account_kit_client_token" />
+        <meta-data android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id" />
+
+        <activity
+            android:name="com.facebook.accountkit.ui.AccountKitActivity" />
+
+
+        <!-- <meta-data android:name="com.google.android.geo.API_KEY" -->
+        <!-- android:value="AIzaSyBiOFSWGRCxsfb2sx6euIlLTbtcNe2aGA4"/> -->
+        <service
+            android:name="com.example.android.HomelyFood.Service.ListenOrder"
+            android:enabled="true"
+            android:exported="true" />
+
+        <activity android:name="com.example.android.HomelyFood.OrderStatus" />
+        <activity android:name="com.example.android.HomelyFood.Cart" />
+        <activity android:name="com.example.android.HomelyFood.FoodDetail" />
+        <activity android:name="com.example.android.HomelyFood.FoodList" />
+        <activity
+            android:name="com.example.android.HomelyFood.Home"
+            android:label="@string/title_activity_home"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name="com.example.android.HomelyFood.SignUp" />
+        <activity android:name="com.example.android.HomelyFood.SignIn" />
+        <activity android:name="com.example.android.HomelyFood.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <provider
+            android:name="com.facebook.FacebookContentProvider"
+            android:authorities="com.facebook.app.FacebookContentProvider2321796787895943"
+            android:exported="true" />
+    </application>
+
+</manifest>

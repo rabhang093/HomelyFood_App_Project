@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/simra/Downloads/Food Delivery/EatitServerDEV/EatitServerDEV/EatitServer/app/src/main/res/layout/activity_banner_management.xml" value="0.1984375" />
+        <entry key="..\:/Users/simra/Downloads/Food Delivery/EatitServerDEV/EatitServerDEV/EatitServer/app/src/main/res/layout/activity_food_list.xml" value="0.1984375" />
+        <entry key="..\:/Users/simra/Downloads/Food Delivery/EatitServerDEV/EatitServerDEV/EatitServer/app/src/main/res/layout/activity_home.xml" value="0.1984375" />
+        <entry key="..\:/Users/simra/Downloads/Food Delivery/EatitServerDEV/EatitServerDEV/EatitServer/app/src/main/res/layout/activity_main.xml" value="0.15" />
+        <entry key="..\:/Users/simra/Downloads/Food Delivery/EatitServerDEV/EatitServerDEV/EatitServer/app/src/main/res/layout/activity_order_detail.xml" value="0.1984375" />
+        <entry key="..\:/Users/simra/Downloads/Food Delivery/EatitServerDEV/EatitServerDEV/EatitServer/app/src/main/res/layout/activity_order_status.xml" value="0.1984375" />
+        <entry key="..\:/Users/simra/Downloads/Food Delivery/EatitServerDEV/EatitServerDEV/EatitServer/app/src/main/res/layout/activity_sign_in.xml" value="0.1984375" />
+        <entry key="..\:/Users/simra/Downloads/Food Delivery/EatitServerDEV/EatitServerDEV/EatitServer/app/src/main/res/layout/activity_tracking_order.xml" value="0.1984375" />
+        <entry key="..\:/Users/simra/Downloads/Food Delivery/EatitServerDEV/EatitServerDEV/EatitServer/app/src/main/res/layout/add_new_banner_layout.xml" value="0.1984375" />
+        <entry key="..\:/Users/simra/Downloads/Food Delivery/EatitServerDEV/EatitServerDEV/EatitServer/app/src/main/res/layout/add_new_food_layout.xml" value="0.1984375" />
+        <entry key="..\:/Users/simra/Downloads/Food Delivery/EatitServerDEV/EatitServerDEV/EatitServer/app/src/main/res/layout/add_new_menu_layout.xml" value="0.1984375" />
+        <entry key="..\:/Users/simra/Downloads/Food Delivery/EatitServerDEV/EatitServerDEV/EatitServer/app/src/main/res/layout/app_bar_home.xml" value="0.1984375" />
+        <entry key="..\:/Users/simra/Downloads/Food Delivery/EatitServerDEV/EatitServerDEV/EatitServer/app/src/main/res/layout/banner_layout.xml" value="0.1984375" />
+        <entry key="..\:/Users/simra/Downloads/Food Delivery/EatitServerDEV/EatitServerDEV/EatitServer/app/src/main/res/layout/content_home.xml" value="0.1984375" />
+        <entry key="..\:/Users/simra/Downloads/Food Delivery/EatitServerDEV/EatitServerDEV/EatitServer/app/src/main/res/layout/food_item.xml" value="0.1984375" />
+        <entry key="..\:/Users/simra/Downloads/Food Delivery/EatitServerDEV/EatitServerDEV/EatitServer/app/src/main/res/layout/menu_item.xml" value="0.1984375" />
+        <entry key="..\:/Users/simra/Downloads/Food Delivery/EatitServerDEV/EatitServerDEV/EatitServer/app/src/main/res/layout/nav_header_home.xml" value="0.1984375" />
+        <entry key="..\:/Users/simra/Downloads/Food Delivery/EatitServerDEV/EatitServerDEV/EatitServer/app/src/main/res/layout/order_detail_layout.xml" value="0.1984375" />
+        <entry key="..\:/Users/simra/Downloads/Food Delivery/EatitServerDEV/EatitServerDEV/EatitServer/app/src/main/res/layout/order_layout.xml" value="0.1984375" />
+        <entry key="..\:/Users/simra/Downloads/Food Delivery/EatitServerDEV/EatitServerDEV/EatitServer/app/src/main/res/layout/update_order_layout.xml" value="0.1984375" />
+        <entry key="..\:/Users/simra/Downloads/Food Delivery/EatitServerDEV/EatitServerDEV/EatitServer/app/src/main/res/menu/activity_home_drawer.xml" value="0.1" />
+        <entry key="..\:/Users/simra/OneDrive/Desktop/HomelyFood Delivery/HomelyFoodServer/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.13796296296296295" />
+        <entry key="..\:/Users/simra/OneDrive/Desktop/HomelyFood Delivery/HomelyFoodServer/app/src/main/res/drawable/ic_access_time_black_24dp.xml" value="0.13796296296296295" />
+        <entry key="..\:/Users/simra/OneDrive/Desktop/HomelyFood Delivery/HomelyFoodServer/app/src/main/res/drawable/ic_exit_to_app_black_24dp.xml" value="0.13796296296296295" />
+        <entry key="..\:/Users/simra/OneDrive/Desktop/HomelyFood Delivery/HomelyFoodServer/app/src/main/res/drawable/ic_laptop_black_24dp.xml" value="0.13796296296296295" />
+        <entry key="..\:/Users/simra/OneDrive/Desktop/HomelyFood Delivery/HomelyFoodServer/app/src/main/res/drawable/ic_menu_manage.xml" value="0.13796296296296295" />
+        <entry key="..\:/Users/simra/OneDrive/Desktop/HomelyFood Delivery/HomelyFoodServer/app/src/main/res/drawable/ic_menu_send.xml" value="0.13796296296296295" />
+        <entry key="..\:/Users/simra/OneDrive/Desktop/HomelyFood Delivery/HomelyFoodServer/app/src/main/res/drawable/ic_playlist_add_black_24dp.xml" value="0.13796296296296295" />
+        <entry key="..\:/Users/simra/OneDrive/Desktop/HomelyFood Delivery/HomelyFoodServer/app/src/main/res/drawable/ic_restaurant_menu_black_24dp.xml" value="0.13796296296296295" />
+        <entry key="..\:/Users/simra/OneDrive/Desktop/HomelyFood Delivery/HomelyFoodServer/app/src/main/res/drawable/ic_shopping_cart_black_24dp.xml" value="0.13796296296296295" />
+        <entry key="..\:/Users/simra/OneDrive/Desktop/HomelyFood Delivery/HomelyFoodServer/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/Users/simra/OneDrive/Desktop/HomelyFood Delivery/HomelyFoodServer/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/simra/OneDrive/Desktop/HomelyFood Delivery/HomelyFoodServer/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2140625" />
+        <entry key="..\:/Users/simra/OneDrive/Desktop/HomelyFood Delivery/HomelyFoodServer/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.13796296296296295" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

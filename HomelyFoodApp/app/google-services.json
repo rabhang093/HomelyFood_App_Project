@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "224166708375",
+    "firebase_url": "https://homelyfood-8b19e-default-rtdb.firebaseio.com",
+    "project_id": "homelyfood-8b19e",
+    "storage_bucket": "homelyfood-8b19e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224166708375:android:3c901c9f215c7d1c93d5d2",
+        "android_client_info": {
+          "package_name": "com.example.android.HomelyFood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224166708375-t2latn653326in33hr4a59rb9h4bpoc3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.HomelyFood",
+            "certificate_hash": "bfdce56596bf5322297dfff57e6ebe65787716bc"
+          }
+        },
+        {
+          "client_id": "224166708375-l10852djk7jodkqhvqm8olg8vkh54nms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXZJRj2gKhKfe2brKi_1YKWy3Z9lAyh_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224166708375-l10852djk7jodkqhvqm8olg8vkh54nms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

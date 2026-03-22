@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    app:cardElevation="4dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/edtAddress"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Address"
+            android:textColorHint="@color/colorPrimary"
+            android:text=""
+            android:textSize="30sp"
+            android:textColor="@color/colorPrimary"
+            android:inputType="text"
+            app:met_baseColor="@color/colorPrimary"
+            app:met_floatingLabel="highlight"
+            app:met_primaryColor="@color/colorPrimary"
+            app:met_singleLineEllipsis="true"/>
+        <!--<fragment-->
+            <!--android:id="@+id/place_autocomplete_fragment"-->
+            <!--android:name="com.google.android.libraries.places.widget.AutocompleteSupportFragment"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"/>-->
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/edtComment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint=" Your Comment Here..."
+            android:textColorHint="@color/colorPrimary"
+            android:text=""
+            android:textSize="24sp"
+            android:textColor="@color/colorPrimary"
+            android:inputType="textMultiLine"
+            app:met_baseColor="@color/colorPrimary"
+            app:met_floatingLabel="highlight"
+            app:met_primaryColor="@color/colorPrimary"
+            app:met_singleLineEllipsis="true"/>
+
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <RadioButton
+                android:id="@+id/rdbShipToAddress"
+                android:text="Ship to this address"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+            <RadioButton
+                android:id="@+id/rdbHomeAddress"
+                android:text="Home address"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+        </RadioGroup>
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
