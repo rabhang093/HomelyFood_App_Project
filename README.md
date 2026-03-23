@@ -54,12 +54,13 @@ It focuses on promoting healthy eating while empowering women to earn from home.
 
 ## 🧰 Tech Stack
 
-| Component       | Technology Used        |
-|----------------|----------------------|
-| Frontend       | Android (Java)       |
-| Backend        | Firebase             |
-| Database       | Firebase Database    |
-| Tools          | Android Studio       |
+| Layer         | Technology Used |
+|--------------|----------------|
+| Frontend     | Android (Java, XML) |
+| Backend      | Firebase (Authentication, Realtime Database) |
+| Database     | Firebase Realtime Database |
+| Tools        | Android Studio, GitHub |
+| Build System | Gradle |
 
 ---
 
